@@ -43,7 +43,7 @@ que transforma o transporte, tornando-o não apenas eficiente, mas também um pi
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 03/09/2024 | Concluido|[Ver relatório](https://github.com/Rota-Flex/Rota-/blob/main/Arquivos/Kick-off%20API%203-2.pptx) | 
-|0| 24/09/2024 | Concluído|  | 
+|0| 24/09/2024 | Concluído|[Ver relatório](https://github.com/Rota-Flex/Rota-/blob/main/Arquivos/Relatorio%20sprint%200.docx) | 
 |1| 15/10/2024| A fazer |  | 
 |2| 05/11/2024 | A fazer|  | 
 |3| 26/11/2024 | A fazer |  | 
