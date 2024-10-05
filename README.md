@@ -104,33 +104,44 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [X] Estruturação do Git Hub – Definir missão, visão e valores, perfil da empresa, resumo do backlog;
 - [X] Estruturação do Jira – Definir todas as atividades e distribui-las para os desenvolvedores;
 - [X] Documentação da sprint 0;
-- [X] Aprendizagem de SQL;
-- [X] Aprendizagem de Python;
+- [X] Estudar SQL;
+- [X] Desenvolvimento do MySQL-Parte 1;
 - [X] Tratamento de dados no Power BI;
 - [X] Estudo de como minimizar os custos do transporte;
-- [X] Estudo de como otimizar as rotas.
+- [X] Estudo de como otimizar as rotas;
+- [X] Visualização/análise das tabelas e colunas e estudo do SQL.
 
 ## Sprint 1
-- [ ] Esboçar e definir a estrutura do banco de dados conforme requisitos – relacionamento de dados, montagem de um layout inicial, gráficos para uma primeira validação;
-- [ ] Implementar as tabelas e relacionamentos, no banco de dados SQL;
-- [ ] Estabelecer a conexão entre a ferramenta de BI e SQL;
+- [ ] Atualizar GitHub;
+- [ ] Estudar Python;
 - [ ] Documentação da sprint 1;
 - [ ] Rotas de veículos de acordo com clientes;
-- [ ]	Entender as rotas que os veículos percorrem;
-- [ ]	Implementação dos feedbacks do cliente.
+- [ ]	Estudar Método de transporte (Minimização) - Python;
+- [ ]	Desenvolvimento do MySQL - Parte 2;
+- [ ]	Conectar o MySQL ao Power Bi;
+- [ ]	Criar Gráficos no Power Bi - Parte 1.
+
 
 ## Sprint 2
-- [ ]	Otimização das rotas para melhorar distribuição;
-- [ ] Minimização dos custos de rotas;
-- [ ] Aplicação de Python na otimização das rotas;
+- [ ]	Atualizar GitHub;
+- [ ] Atualizar Jira Software;
 - [ ] Documentação da sprint 2;
+- [ ] Criação de um Roteiro de Apresentação;
+- [ ] Criação de uma Apresentação  (CANVA);
 - [ ] Estudar sobre as rodovias que os veículos costumam percorrer para entender seus pros e contras;
-- [ ] Custos de fabricas x clientes.
+- [ ] Criação do Método de Transporte - Python;
+- [ ] Aplicação do Método de Transporte (Python) - Power Bi;
+- [ ] Criar gráficos no Power bi - Parte 2.
 
- ## Sprint 2
-- [ ] Slides da apresentação da feira de soluções;
-- [ ] Trazer informações complexas e fundamentadas sobre a redução de custos e otimização de rotas;
-- [ ] 3.	Documentação da sprint 3.
+ ## Sprint 3
+- [ ] Documentação da sprint 3.
+- [ ] Ajustes Finais - Apresentação (CANVA);
+- [ ] Ajustes Finais - Método de Transporte (Python;
+- [ ] Ajustes Finais - Power Bi;
+- [ ] Atualizar e Finalizar - GitHub; 
+- [ ] Atualizar e Finalizar - Jira Software;
+- [ ] Feira de Soluções.
+
 
 # Competências desenvolvidas
 
