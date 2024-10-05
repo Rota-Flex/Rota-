@@ -72,6 +72,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 # Vídeos e apresentações das sprints
 - [X] JIRA (https://youtu.be/DQp1-7dgCGg)
 - [X] MySQL  (https://youtu.be/racm59vuT7I)
+      
   ### Produto 
 <p align="center">
  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
