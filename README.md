@@ -70,9 +70,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Desenvolver habilidades técnicas.
 
 # Vídeos e apresentações das sprints
-- [X] JIRA (https://youtu.be/DQp1-7dgCGg)
-- [X] MySQL  (https://youtu.be/racm59vuT7I)
-- [X] POWER BI (https://youtu.be/we4F6xTpEtc)
+- [Sofware Jira](https://youtu.be/DQp1-7dgCGg)
+- [MySQL](https://youtu.be/racm59vuT7I)
+- [Power BI](https://youtu.be/we4F6xTpEtc)
       
   ### Produto 
 <p align="center">
