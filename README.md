@@ -71,7 +71,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 # Vídeos e apresentações das sprints
 
-- [Sofware Jira](https://youtu.be/DQp1-7dgCGg)
+- [Software Jira](https://youtu.be/DQp1-7dgCGg)
 - [Power BI](https://youtu.be/we4F6xTpEtc)
 - [MySQL](https://youtu.be/racm59vuT7I)
   
