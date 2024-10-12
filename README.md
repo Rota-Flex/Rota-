@@ -82,19 +82,20 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
  ### Tecnológias Específicas/Apoio
  > Utilizamos diferentes tecnologias de gestão aplicando o metodo ágil, são elas:
 
-- Jira Software
-- Github
-- Power BI
-- Excel
-- Word
-- Python
-- SQL
-- Slack
-- Office
-- Teams
-- Whatsapp
+ <div style= display:"inline_block"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
+  <img align="center" height="30" width="40" src= https://icongr.am/simple/microsoftteams.svg?size=128&color=6227b9&colored >
+  <img align="center" height="30" width="40" src=https://icongr.am/entypo/youtube.svg?size=128&color=bf6640 >
+  <img align="center" height="30" width="40" src= https://icongr.am/simple/microsoftexcel.svg?size=128&color=4055bf&colored >
+  <img align="center" height="30" width="40" src= https://icongr.am/simple/powerbi.svg?size=128&color=f9f34e&colored >
+  <img align="center" height="30" width="40" src= https://icongr.am/simple/whatsapp.svg?size=128&color=43d06e&colored>
 
-# Burndown
+# 
 
 <p align="center">
  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
