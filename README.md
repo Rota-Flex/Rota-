@@ -44,7 +44,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 03/09/2024 | Concluido|[Ver relatório](https://github.com/Rota-Flex/Rota-/blob/main/Arquivos/Kick-off%20API%203-2.pptx) | 
 |0| 24/09/2024 | Concluído|[Ver relatório](https://github.com/Rota-Flex/Rota-/blob/main/Arquivos/Relatorio%20sprint%200%20(2)(3)(1).pdf) | 
-|1| 15/10/2024| A fazer |  | 
+|1| 15/10/2024| Concluído|[Ver relatório]( https://github.com/Rota-Flex/Rota-/blob/main/Arquivos/Relatorio%20sprint%20(1).pdf)
 |2| 05/11/2024 | A fazer|  | 
 |3| 26/11/2024 | A fazer |  | 
 |Feira de Soluções| 12/12/2023 | A fazer | | 
