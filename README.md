@@ -5,7 +5,7 @@
 </p>
 
 # LOGÍSTICA - TERCEIRO SEMESTRE
-# Aprendizado por Projeto Integrado (API) - ROTAFLEX
+# Aprendizado por Projeto Integrado (API) 
 
 Repositório para armazenagem de dados, para visualização do cliente Marcus no qual o produto é uma análise de produtividade de veículos, 
 de otimização de distribuição e de custo de rotas de uma empresa embarcadora de carga.
