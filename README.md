@@ -64,7 +64,7 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Equipe
-![Equipe](https://github.com/Rota-Flex/Rota-/blob/main/Arquivos/Equipe.jpeg)
+![Equipe](https://github.com/JJI1012/teste-github/blob/main/Equipe%20rota.jpg)
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
