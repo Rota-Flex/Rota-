@@ -123,14 +123,14 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [X] Visualização/análise das tabelas e colunas e estudo do SQL.
 
 ## Sprint 1
-- [ ] Atualizar GitHub;
-- [ ] Estudar Python;
-- [ ] Documentação da sprint 1;
-- [ ] Rotas de veículos de acordo com clientes;
-- [ ]	Estudar Método de transporte (Minimização) - Python;
-- [ ]	Desenvolvimento do MySQL - Parte 2;
-- [ ]	Conectar o MySQL ao Power Bi;
-- [ ]	Criar Gráficos no Power Bi - Parte 1.
+- [X] Atualizar GitHub;
+- [X] Estudar Python;
+- [X] Documentação da sprint 1;
+- [X] Rotas de veículos de acordo com clientes;
+- [X]	Estudar Método de transporte (Minimização) - Python;
+- [X]	Desenvolvimento do MySQL - Parte 2;
+- [X]	Conectar o MySQL ao Power Bi;
+- [X]	Criar Gráficos no Power Bi - Parte 1.
 
 
 ## Sprint 2
