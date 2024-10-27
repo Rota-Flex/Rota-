@@ -64,7 +64,7 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Equipe
-![Equipe](https://github.com/Rota-Flex/Rota-/blob/main/Arquivos/welcome%20little%20one!%20(1).jpg)
+![Equipe](https://github.com/Rota-Flex/Rota-/blob/main/Arquivos/Equipe%20Rotaflex%20.jpg)
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
