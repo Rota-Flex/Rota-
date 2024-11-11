@@ -134,15 +134,15 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 
 ## Sprint 2
-- [ ]	Atualizar GitHub;
-- [ ] Atualizar Jira Software;
-- [ ] Documentação da sprint 2;
-- [ ] Criação de um Roteiro de Apresentação;
-- [ ] Criação de uma Apresentação  (CANVA);
-- [ ] Estudar sobre as rodovias que os veículos costumam percorrer para entender seus pros e contras;
-- [ ] Criação do Método de Transporte - Python;
-- [ ] Aplicação do Método de Transporte (Python) - Power Bi;
-- [ ] Criar gráficos no Power bi - Parte 2.
+- [x]	Atualizar GitHub;
+- [x] Atualizar Jira Software;
+- [x] Documentação da sprint 2;
+- [x] Criação de um Roteiro de Apresentação;
+- [x] Criação de uma Apresentação  (CANVA);
+- [x] Estudar sobre as rodovias que os veículos costumam percorrer para entender seus pros e contras;
+- [x] Criação do Método de Transporte - Python;
+- [x] Aplicação do Método de Transporte (Python) - Power Bi;
+- [x] Criar gráficos no Power bi - Parte 2.
 
  ## Sprint 3
 - [ ] Documentação da sprint 3.
