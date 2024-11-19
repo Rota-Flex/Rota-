@@ -80,6 +80,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [Software Jira](https://youtu.be/DQp1-7dgCGg)
 - [Power BI](https://youtu.be/PfS4NQn3Ycs)
 - [MySQL](https://youtu.be/ik3yccyIszI)
+- [Python](https://youtube.com/shorts/0qwIZL2iodw)
   
       
   ### Produto 
